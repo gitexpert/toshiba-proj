@@ -9,13 +9,11 @@
 	<packaging>war</packaging>
 	<name>${pkg.title}</name>
 	<description>${pkg.description}</description>
-
 	<parent>
 		<groupId>tr.com.obss.sdlc.pom</groupId>
 		<artifactId>root-pom-java</artifactId>
 		<version>3.1.0</version>
 	</parent>
-
 	<properties>
 		<pkg.code>10000</pkg.code>
 		<pkg.title>toshiba</pkg.title>
